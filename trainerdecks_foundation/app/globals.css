@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+body { margin: 0; background: #080B14; }
+* { box-sizing: border-box; }
+a { text-decoration: none; }
