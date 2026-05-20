@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-:root { color-scheme: dark; }
-body { margin: 0; background: #080B14; }
+:root { color-scheme: light; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #e0f2fe; }
 * { box-sizing: border-box; }
 a { text-decoration: none; }

@@ -2,8 +2,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'TrainerDecks - Decks, Meta Guides & Tools',
-  description: 'TrainerDecks is a colorful companion hub for deck guides, meta snapshots, card tools, and strategy resources for trading card game fans.',
+  title: 'TrainerDecks - Decks, Cards, Events & Meta Updates',
+  description: 'TrainerDecks is a colorful deck, card, event, and meta update hub for fans who want guides, tools, and strategy ideas in one place.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
